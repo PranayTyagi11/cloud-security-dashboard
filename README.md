@@ -7,9 +7,9 @@ A full-stack cloud monitoring solution built with AWS serverless stack and Terra
 
 **Note**: Public demo uses realistic mock data. Real AWS integration fully implemented and tested.
 
-[Dashboard](./screenshots/dashboard.png)
-[Cost Analytics](./screenshots/cost_analytics.png)
-[Security](./screenshots/security.png)
+![Dashboard](./screenshots/dashboard.png)
+![Cost Analytics](./screenshots/cost_analytics.png)
+![Security](./screenshots/security.png)
 
 ## Project Overview
 - Infrastructure as Code with Terraform
