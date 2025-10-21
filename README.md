@@ -38,8 +38,3 @@ A full-stack cloud monitoring solution built with AWS serverless stack and Terra
 - [Technical Implementation](TECHNICAL_DETAILS.md)
 - [Deployment Guide](DEPLOYMENT.md)
 - [Code Samples](CODE_SAMPLES.md)
-
-## Development Timeline
-- Day 1: Infrastructure setup with Terraform
-- Day 2: Backend integration and data processing
-- Day 3: Frontend dashboard and deployment
