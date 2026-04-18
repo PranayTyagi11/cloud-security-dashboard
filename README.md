@@ -32,4 +32,3 @@ A full-stack cloud monitoring solution built with AWS serverless stack and Terra
 - [System Architecture](ARCHITECTURE.md)
 - [Technical Implementation](TECHNICAL_DETAILS.md)
 - [Deployment Guide](DEPLOYMENT.md)
-- [Code Samples](CODE_SAMPLES.md)
