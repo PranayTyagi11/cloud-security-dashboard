@@ -2,8 +2,6 @@
 
 A full-stack cloud monitoring solution built with AWS serverless stack and Terraform. Automatically tracks AWS costs and security findings with real-time dashboard visualization.
 
-**Note**: Public demo uses realistic mock data. Real AWS integration fully implemented and tested.
-
 ![Dashboard](./screenshots/dashboard.png)
 ![Cost Analytics](./screenshots/cost_analytics.png)
 ![Security](./screenshots/security.png)
