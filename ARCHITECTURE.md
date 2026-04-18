@@ -3,9 +3,6 @@
 ## Overview
 The Cloud Cost & Security Dashboard follows a serverless architecture pattern using AWS services managed through Terraform.
 
-## Architecture Diagram
-![Architecture Diagram](./diagrams/architecture-diagram.txt)
-
 ## Data Flow
 1. Data Collection: AWS EventBridge triggers daily Lambda function
 2. Cost Data: Lambda calls AWS Cost Explorer API for monthly costs
